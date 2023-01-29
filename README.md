@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I’m @ccbobs13, Full Stack Developer
+- 👀 I’m interested in Software Development and IA
+- 🌱 I’m currently learning Data technologies (Big Data , IA , Machine learning)
 <!--
 **ccbobs13/ccbobs13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
