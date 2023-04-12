@@ -5,7 +5,7 @@ I’m @ccbobs13, Full Stack Developer
 ##
 ### Skills and Tools👨‍💻
 <p>
-  <img alt="AWS" src="https://img.shields.io/badge/-Amzon_Web_Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
